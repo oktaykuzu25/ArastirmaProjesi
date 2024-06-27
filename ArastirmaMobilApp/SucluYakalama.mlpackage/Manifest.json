@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "474CFB1D-BEDB-4F08-9549-3376F8354421": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "75599D40-0F49-422B-9637-74DFA27B2055": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "F1498F81-C2D4-4C4B-A3AA-C4471ED729B4": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "SucluYakalama.mlmodel",
+            "path": "com.apple.CoreML/SucluYakalama.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F1498F81-C2D4-4C4B-A3AA-C4471ED729B4"
+}

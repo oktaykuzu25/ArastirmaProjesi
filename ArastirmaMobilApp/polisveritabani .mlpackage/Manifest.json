@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "28E767E2-F0E7-4C3A-AADD-DD32BD26BFE9": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "B2347D16-49DF-4391-B290-16682B5847F2": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "polisveritabani .mlmodel",
+            "path": "com.apple.CoreML/polisveritabani .mlmodel"
+        },
+        "CAFE2777-A940-4850-91DD-8867CF3EE77D": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "B2347D16-49DF-4391-B290-16682B5847F2"
+}
